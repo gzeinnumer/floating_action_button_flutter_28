@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/floating_action_button_flutter_28.iml" filepath="$PROJECT_DIR$/floating_action_button_flutter_28.iml" />
+      <module fileurl="file://$PROJECT_DIR$/android/floating_action_button_flutter_28_android.iml" filepath="$PROJECT_DIR$/android/floating_action_button_flutter_28_android.iml" />
+    </modules>
+  </component>
+</project>
